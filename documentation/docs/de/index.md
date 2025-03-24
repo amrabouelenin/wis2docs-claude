@@ -1,5 +1,3 @@
-Hier ist die deutsche Übersetzung des Markdown-Inhalts:
-
 ---
 title: Startseite
 ---
